@@ -1,0 +1,5 @@
+Region,Best 500 avg CW,Worst 500 avg CW,Potential saving,Optimal hour,Optimal month
+CAL,0.266,0.677,0.411,22,5
+ERCO,0.319,0.853,0.534,7,1
+NW,0.337,0.692,0.355,17,5
+PJM,0.444,0.795,0.351,7,11

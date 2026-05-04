@@ -1,0 +1,5 @@
+Model,Accuracy,F1-Score
+SVM (RBF),0.914,0.916
+Random Forest,0.910,0.912
+Logistic Regression,0.739,0.739
+Baseline (Dummy),0.442,0.271
